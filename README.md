@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alexis and I'm a Developer from Nicaragua </h2>
+<h2 align="left">Hi! My name is Alexis and I'm a Developer from Nicaragua </h2>
 
 
 ###  Sobre mí
