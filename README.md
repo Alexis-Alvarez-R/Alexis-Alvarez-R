@@ -1,9 +1,9 @@
-<h2 align="left">Hi! My name is Alexis and I'm a Developer from Nicaragua </h2>
+<h2 align="left">Hola! me llamo Alexis y soy un Desarrollador de Software en Nicaragua </h2>
 
 
 ###  Sobre mí
 
-¡Hola! Soy un **Desarrollador Junior** con una mentalidad de aprendizaje continuo, enfocado en convertirme en **Full Stack Developer**. Me apasiona construir aplicaciones web modernas, limpias y escalables. Actualmente, dedico mi tiempo a perfeccionar mis habilidades tanto en el frontend como en el backend, transformando ideas en código funcional.
+Soy un **Desarrollador Junior** con una mentalidad de aprendizaje continuo, enfocado en convertirme en **Full Stack Developer**. Me apasiona construir aplicaciones web modernas, limpias y escalables. Actualmente, dedico mi tiempo a perfeccionar mis habilidades tanto en el frontend como en el backend, transformando ideas en código funcional.
 
 - Actualmente trabajando en proyectos con **React** y **NestJS**.
 - Dominando el ecosistema de **WEB**.
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 **Frontend**
 <div align="left">
